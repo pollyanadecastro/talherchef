@@ -10,8 +10,8 @@ correspondente.
 
 ## Dupla
 
-- Nome 1 — usuário/e-mail
-- Nome 2 — usuário/e-mail
+- Pollyana de Castro Rodrigues
+- João David Salomão
 
 ## Demonstração
 
@@ -131,11 +131,4 @@ Com a página aberta:
    **Download**, e baixe os três arquivos (`model.json`, `metadata.json`, `weights.bin`).
 6. Substitua os arquivos dentro da pasta `model/` deste repositório.
 
-## Critérios atendidos
 
-- [x] Modelo treinado no Teachable Machine com 3 classes de talheres.
-- [x] Modelo exportado (TensorFlow.js) e versionado em `model/`.
-- [x] Classificação em tempo real na tela, com confiança de cada classe.
-- [x] Ação automática disparada pela predição (sem clique manual).
-- [ ] Repositório público no GitHub — publicar após revisão final.
-- [x] README com descrição, classes, ação e passo a passo de execução.

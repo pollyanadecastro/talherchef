@@ -125,4 +125,4 @@ Com a página aberta:
    **Download**, e baixe os três arquivos (`model.json`, `metadata.json`, `weights.bin`).
 6. Substitua os arquivos dentro da pasta `model/` deste repositório.
 
-
+## Interface gráfica criada através do Figma.IA

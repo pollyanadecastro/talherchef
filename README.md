@@ -13,12 +13,6 @@ correspondente.
 - Pollyana de Castro Rodrigues
 - João David Salomão
 
-## Demonstração
-
-![Demo da aplicação](docs/demo.gif)
-
-*(substitua pelo GIF/print real da aplicação rodando)*
-
 ## Como funciona / regra de negócio
 
 A interface segue um tema "Ristorante" (Talher Chef · La Cucina Intelligente), com um

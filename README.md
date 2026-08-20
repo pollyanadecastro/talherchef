@@ -8,10 +8,10 @@ correspondente.
 > Nenhum botão é clicado para disparar a ação — ela acontece sozinha quando o modelo
 > reconhece o talher com confiança suficiente.
 
-## Dupla
+## Autor
 
 - Pollyana de Castro Rodrigues
-- João David Salomão
+
 
 ## Como funciona / regra de negócio
 
